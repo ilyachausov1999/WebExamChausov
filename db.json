@@ -1,0 +1,28 @@
+{
+  "purchases": [
+    {
+      "name": "Покупка 1",
+      "amount": "2",
+      "status": true,
+      "id": 1
+    },
+    {
+      "name": "Покупка 2",
+      "amount": "1",
+      "status": false,
+      "id": 2
+    },
+    {
+      "name": "Покупка 3",
+      "amount": "13",
+      "status": false,
+      "id": 3
+    },
+    {
+      "name": "Покупка 4",
+      "amount": "11",
+      "status": true,
+      "id": 4
+    }
+  ]
+}
